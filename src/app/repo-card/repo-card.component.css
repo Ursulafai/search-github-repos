@@ -1,0 +1,30 @@
+.search-result {
+  width: 80%;
+  margin: 0 auto;
+  height: 10%;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.repo-card {
+  margin-top: 180px;
+}
+
+.mat-card img{
+  object-fit: cover;
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+}
+
+.mat-card {
+  height: 200px;
+  width: 200px;
+}
+
+.mat-card mat-card-title {
+  margin: 5px;
+  text-align: center;
+}
+
+
